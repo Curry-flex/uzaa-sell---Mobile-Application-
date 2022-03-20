@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636956479189",
+    "project_id": "curryshop-8f8d2",
+    "storage_bucket": "curryshop-8f8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636956479189:android:435a5af11b30befd1b5c5c",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636956479189-gbmkkdn6nuihdve86m5spi2kmhllfgij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLNdBAVFq7_mJuP7wYMRJiGpAZjcajqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636956479189-gbmkkdn6nuihdve86m5spi2kmhllfgij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
